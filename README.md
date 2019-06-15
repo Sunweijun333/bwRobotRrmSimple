@@ -4,7 +4,7 @@ This project is mainly to learn ROS about the movet of the robotic arm,and The r
 
 In the next few steps, you can use this feature pack to view the demo effect.
 
-1. First you should make sure you have ros installed.you can follow this [Ros](http://wiki.ros.org/kinetic/Installation/Ubuntu).
+1. First you should make sure you have ros installed.you can follow this [Ros wiki](http://wiki.ros.org/kinetic/Installation/Ubuntu).
 
 2.Then you need to install moveit and the dependencies it needs
 
