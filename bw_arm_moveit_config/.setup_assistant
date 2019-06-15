@@ -1,0 +1,11 @@
+moveit_setup_assistant_config:
+  URDF:
+    package: bw_arm_description
+    relative_path: urdf/bw_arm.urdf.xacro
+    xacro_args: "--inorder "
+  SRDF:
+    relative_path: config/bw_robot_arm.srdf
+  CONFIG:
+    author_name: Sun Weijun
+    author_email: 2318085206@qq.com
+    generated_timestamp: 1559098648
