@@ -12,3 +12,17 @@
 输入帐号密码
 开始推送
 如果再次修改本地文件，想要更新到github上，只需要从第7步开始即可
+如果出现错误如下
+ ! [rejected]        master -> master (fetch first)
+error: failed to push some refs to 'https://github.com/Sunweijun333/bwRobotRrmSimple.git'
+hint: Updates were rejected because the remote contains work that you do
+hint: not have locally. This is usually caused by another repository pushing
+hint: to the same ref. You may want to first integrate the remote changes
+hint: (e.g., 'git pull ...') before pushing again.
+hint: See the 'Note about fast-forwards' in 'git push --help' for details.
+则输入
+
+git pull --rebase origin master
+即可
+git push -u origin master
+
