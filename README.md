@@ -1,5 +1,6 @@
 # bwRobotRrmSimple
 The results of the moveit in rviz plan are sent to gazebo to go.
+========================================================================================
 This project is mainly to learn ROS about the movet of the robotic arm,and The results of the moveit in rviz plan are sent to gazebo to go.
 
 In the next few steps, you can use this feature pack to view the demo effect.
