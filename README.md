@@ -18,5 +18,7 @@ In the next few steps, you can use this feature pack to view the demo effect.
     roslaunch bw_arm_gazebo bw_arm_world.launch
 ### 7 you can realize the goal for the results of the moveit in rviz plan are sent to gazebo to go as follows.
     roslaunch bw_arm_gazebo bw_arm_bringup_moveit.launch
+#### Then you can this gui
+[github](https://github.com/Sunweijun333/bwRobotRrmSimple/blob/master/screenshots/rviz_gazebo.png)
  
 *Last thank you for your visiting!*
