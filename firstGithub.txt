@@ -1,0 +1,14 @@
+1、创建你的仓库，拿到地址 https://gu=github.com/yourname/yourrep.git
+注释: 安装git sudo apt-install git
+2、在本地项目文件下打开终端 
+3、git config --global user.name 'yourname'
+4、git config --global user.email 'youremail'
+5、git init
+6、git remote add origin https://gu=github.com/yourname/yourrep.git
+7、git status
+8、git add *
+9、git commit -m 'first_commit'
+10、git push -u origin master 
+输入帐号密码
+开始推送
+如果再次修改本地文件，想要更新到github上，只需要从第7步开始即可
